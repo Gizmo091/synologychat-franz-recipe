@@ -1,0 +1,17 @@
+{
+  "id": "synologychat",
+  "name": "Synology Chat",
+  "version": "1.0.0",
+  "description": "Synology Chat",
+  "main": "index.js",
+  "author": "Mathieu Vedie <mathieu@vedie.fr>",
+  "license": "MIT",
+  "config": {
+    "serviceURL": "",
+    "urlInputSuffix" : "",
+    "hasTeamId": true,
+    "hasNotificationSound": true,
+    "hasCustomUrl": true,
+    "message" : "Your application need a valid certificate when HTTPS is used."
+  }
+}
